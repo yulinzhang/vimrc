@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/Yulin_Zhang'
+let g:netrw_dirhist_2='/Users/Yulin_Zhang/Documents/gitlab/privacy_robotics/.git'
+let g:netrw_dirhist_3='/Users/Yulin_Zhang/Documents/gitlab/privacy_robotics/wafr2018_discreteplanning'
+let g:netrw_dirhist_4='/Users/Yulin_Zhang/Documents/gitlab/privacy_robotics'
+let g:netrw_dirhist_5='/Users/Yulin_Zhang/Documents/gitlab/privacy_robotics/wafr2018_discreteplanning'
+let g:netrw_dirhist_6='/Users/Yulin_Zhang/.vim/bundle/Vundle.vim'
+let g:netrw_dirhist_7='/Users/Yulin_Zhang/.vim/bundle'
