@@ -10,5 +10,7 @@ setlocal cursorline
 setlocal showmatch
 setlocal clipboard=unnamed
 setlocal fileformat=unix
+setlocal path+=**
 
 nnoremap <F5> <ESC>:w!<CR><ESC>:!python %<CR>
+nnoremap ,pclass:-1read $HOME/.vim/snippets/pclass.py<CR>>a
