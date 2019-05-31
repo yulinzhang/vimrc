@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/Yulin_Zhang/Documents/gitlab/multirobot_coordination/code'
+let g:netrw_dirhist_2='/Users/Yulin_Zhang/Documents/gitlab/multirobot_coordination/code/planning'
+let g:netrw_dirhist_3='/Users/Yulin_Zhang/.shsh'
+let g:netrw_dirhist_4='/Users/Yulin_Zhang/.shsh/.known_devices'
+let g:netrw_dirhist_5='/Users/Yulin_Zhang/Documents/gitlab/multirobot_coordination/code/planning'
+let g:netrw_dirhist_6='/Users/Yulin_Zhang/.bash_sessions'
